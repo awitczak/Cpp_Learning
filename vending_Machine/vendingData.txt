@@ -1,0 +1,10 @@
+current_number_of_products 8
+cash_pool 0 3 3 3 3 6 
+bolts 500 2 yes
+cookies 500 1 yes
+drills 10 150 yes
+hammers 10 15 yes
+nails 500 2 yes
+nuts 500 1 yes
+screws 500 2 yes
+washers 500 1 yes
