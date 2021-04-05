@@ -1,1 +1,1 @@
-C++ examples
+Short C++ programs.
